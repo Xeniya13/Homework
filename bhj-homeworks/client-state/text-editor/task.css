@@ -1,0 +1,17 @@
+*,
+body {
+    box-sizing: border-box;
+}
+
+.btn {
+    margin-top: 50px;
+    border: 1px solid #000;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.btn:hover {
+    background-color: #ccc;
+    cursor: pointer;
+}
